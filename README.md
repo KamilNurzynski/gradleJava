@@ -25,7 +25,7 @@ App can ask at the beginig if you really want to use mobile transmission(transfe
 3. Open imported project in your IDE. In file TestsOrangeTvGo --> in setup method set File app path to apk on your disc.
 4. Make sure that capabilities are configurated to your device.
 5. Check if you have build.gradle.kts and in dependencies you have gradle, appium, testng.
-6. Open TestsOrangeTvGo and run the programm.
+6. Open TestsOrangeTvGoGradle file and run the programm.
 7. Tests should be started. Enjoy your coffe :)
    
 
